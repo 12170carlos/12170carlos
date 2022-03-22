@@ -1,4 +1,3 @@
-<div align="center"><img src="https://github.com/12170carlos/12170carlos/blob/9005c18ae14f6bc86d66459fd90672b88af2e808/assets/ezgif.com-gif-maker.gif"/></div>
           <h1 align="center">Hi 👋, I'm Carlos Alvarado</h1>
 <h3 align="center">Full Satck Web Developer en busca de nuevos retos profesionales</h3>
 
