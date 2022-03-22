@@ -1,4 +1,5 @@
-          <h1 align="center">Hi 👋, I'm Carlos Alvarado</h1>
+<h1 align="center">Hola 👋, soy Carlos Alvarado</h1>
+
 <h3 align="center">Full Satck Web Developer en busca de nuevos retos profesionales</h3>
 
 
