@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Satck Web Developer en busca de nuevos retos profesionales</h3>
 
-
+<p><em>Full Stack Web Developer at Freelance <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q2MGk3dHlleXdmY3NvZm5keDZrbW9qZjVreG8zM2g1emZrZnBxZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/200w.webp" width="30"></br>
 <p><em>Full Stack Web Developer at <a href="https://www.soyhenry.com/">Henry</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Teaching Asistant at <a href="https://www.soyhenry.com/">Henry</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
