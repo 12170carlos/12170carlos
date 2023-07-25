@@ -28,11 +28,11 @@ Me inicié en este mundo a que sentía ese curiosidad desde hace mucho tiempo �
 
 
 
-🔭Actualmente me encuentro desarrollando junto con mis compañeros de proyecto un  [Work App](https://github.com/henry-equipo-ocho/proyecto-grupal/pulls)
+🔭Actualmente me encuentro desarrollando aplicaciones y sitios webs como freelance, que cumplen los más altos estándares de calidad y seguridad en el mercado  [Work App](https://antcorporationsac.com/)
 
-🌱 Actualmente estoy aprendiendo sobre la api de google maps aplicada con React
+🌱 Estoy en constante capacitación, para estar al día con las nuevas tendencias den el mundo Tech.
 
-💬 Pregúntame sobret Javascript, ReactJS, CSS, Node.js
+💬 Pregúntame sobret Javascript, ReactJS, CSS, Node.js, Python, Java, SQL.
 
 📫 Cómo me localizas? carlos.alvarado78@gmail.com
 
