@@ -15,7 +15,9 @@
 
 ⭐️ From [@12170carlos](https://github.com/12170carlos)
 
-Me inicié en este mundo a que sentía ese curiosidad desde hace mucho tiempo 💻, y no fue hasta que llegó la crisis mundial que trajo cambios tecnológicos importantes, que me animé a continuar lo que hace mucho tiempo quería, que era ser parte de toda esta gran maquinaria llamada tecnología. Sin dudas me apasiona **_desarrollar APPs_** desde **base de datos, pasando por el back y front**, busco nuevos desafíos para ser un desarrollador de clase mundial 🧑‍💻💪
+Desde hace mucho tiempo, sentí una profunda curiosidad por el mundo de la tecnología 💻. Fue la crisis mundial, con sus cambios tecnológicos significativos, lo que me impulsó a seguir mi pasión por la programación.  Hace mas de tres años, decidí adentrarme en este fascinante campo, y desde entonces he estado inmerso en el desarrollo de aplicaciones. Sin dudas me apasiona **_desarrollar APPs_** desde **base de datos, pasando por el back y front**.
+Mi pasión por la tecnología no ha hecho más que crecer, y me esfuerzo continuamente por mejorar y enfrentar nuevos desafíos. Mi objetivo es convertirme en un desarrollador de clase mundial, aportando soluciones innovadoras y eficientes en cada proyecto en el que participo.🧑‍💻💪
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,7 +34,7 @@ Me inicié en este mundo a que sentía ese curiosidad desde hace mucho tiempo �
 
 🌱 Estoy en constante capacitación, para estar al día con las nuevas tendencias den el mundo Tech.
 
-💬 Pregúntame sobret Javascript, ReactJS, CSS, Node.js, Python, Java, SQL.
+💬 Pregúntame sobret Javascript, ReactJS, Angular, CSS, Node.js, Python, Java, SQL.
 
 📫 Cómo me localizas? carlos.alvarado78@gmail.com
 
